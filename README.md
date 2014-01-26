@@ -9,5 +9,5 @@ Following are the topics included in the exam.
 Includes the basic theory about what is package, how to create and how to implement in in java.
 It includes sample pratice sources from some books like "Java-How to Program" and oracle online tutorials.
 
-[Read more notes on Package](notes/Package_Theory.txt)
+[Read more notes on Package](notes/package_notes.md)
 Note: Other topics comming soon...
